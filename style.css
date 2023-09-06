@@ -21,17 +21,17 @@ body{
 .search{
     width: 100%;
     display: flex;
-    justify-content: space-between;
     align-items: center;
 }
 .search input{
     background: #ebfffc;
     outline: 0;
     border: 0;
+    
     color: #555;
     padding: 10px 24px;
     height: 60px;
-    flex: 1;
+    width: 85%;
     border-radius: 30px;
     margin-right: 16px;
     font-size: 16px;

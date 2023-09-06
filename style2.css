@@ -12,8 +12,7 @@
     }
     .search input{
         padding: 8px 20px;
-        height: 100%; 
-        width: 230px;
+        height: 90%; 
     }
     .weather h1{
         font-size: 30px;
