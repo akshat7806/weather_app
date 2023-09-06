@@ -1,0 +1,33 @@
+@media screen and (max-width:500px){
+    .search img{
+        width: 20px;
+    }
+    .search button{
+    width: 40px;
+    height: 40px;
+    }
+    .weather-icon{
+        width: 150px;
+        margin-top: 20px;
+    }
+    .search input{
+        padding: 8px 20px;
+        height: 45px;
+    }
+
+    .weather h1{
+        font-size: 30px;
+        font-weight: 300;
+    }
+    .col img{
+        width: 30px;
+    }
+    .details{
+        padding: 0px 0px;
+        gap: 5px;
+    }
+    .card{
+        margin: 50px auto 0;
+        border-radius: 15px;
+    }
+}   
